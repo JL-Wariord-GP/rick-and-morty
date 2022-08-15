@@ -9,10 +9,7 @@ function App() {
   const location = useFetch(searchLocation)
 
   return (
-    <div>
-          <div class='loader' id="loader">
-            <img src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c50a4a55883023.5996f8afa3f5c.gif'/>
-          </div>
+    <div >
         {
             //!FORM COMPONENT & LOCATIONINFO
         }

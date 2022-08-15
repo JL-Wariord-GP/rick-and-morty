@@ -17,7 +17,9 @@ const useFetch = (searchLocation, setIsLoading) => {
         .catch(error => console.log(error))
         
     }, [searchLocation])
+    
     return useApi;
+
 
 }
 
