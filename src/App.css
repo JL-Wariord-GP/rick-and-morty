@@ -35,11 +35,12 @@ input {
     border-style: none;
     box-shadow: 1px 1px 10px 0px #0000003b;
     border-radius: 5px;
-    padding-left: 35px;
+    padding-left: 45px;
     width: 250px;
     height: 30px;
     outline: none;
     display: flex;
+    margin: 10px;
 }
 
 /*! ===== SEARCH & STYLE MAIN ===== */
@@ -47,8 +48,8 @@ input {
 .search-svg {
     position: relative;
     width: 20px;
-    right: 112px;
-    bottom: 25px;
+    right: 108px;
+    bottom: 35px;
 }
 
 .styleh1-a {
@@ -139,6 +140,7 @@ input {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    margin: auto;
 }
 
 .contenedor_btn .btn {
