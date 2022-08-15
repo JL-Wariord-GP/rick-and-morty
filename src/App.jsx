@@ -9,7 +9,7 @@ function App() {
   const location = useFetch(searchLocation)
 
   return (
-    <div >
+    <div>
         {
             //!FORM COMPONENT & LOCATIONINFO
         }
