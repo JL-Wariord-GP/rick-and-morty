@@ -39,16 +39,16 @@ input {
     width: 250px;
     height: 30px;
     outline: none;
+    display: flex;
 }
 
 /*! ===== SEARCH & STYLE MAIN ===== */
 
 .search-svg {
     position: relative;
-    margin: 5px;
     width: 20px;
-    right: 250px;
-    top: 11px;
+    right: 112px;
+    bottom: 25px;
 }
 
 .styleh1-a {
@@ -149,6 +149,7 @@ input {
     cursor: pointer;
     border-style: none;
     border-radius: 25px;
+    bottom: 20px;
 }
 
 .contenedor_btn .btn a {
