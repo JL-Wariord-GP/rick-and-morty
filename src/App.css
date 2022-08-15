@@ -269,6 +269,9 @@ input {
         position: relative;
         top: 18rem;
     }
+    .box-style-card {
+        box-shadow: rgb(17 12 46 / 54%) 0px 13px 20px 7px;
+    }
     .box-card, .box-style-card {
         flex: 0 0 100%;
         padding: 24px;
@@ -294,6 +297,9 @@ input {
         gap: 12px;
         position: relative;
         top: 18rem;
+    }
+    .box-style-card {
+        box-shadow: rgb(17 12 46 / 54%) 0px 13px 20px 7px;
     }
     .box-card, .box-style-card {
         flex: 0 0 100%;
