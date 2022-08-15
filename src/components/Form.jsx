@@ -22,7 +22,7 @@ const Form = ({setSearchLocation, location}) => {
           <div>
             <form onSubmit={btnSubmit}>
               <input id='search' type="text" placeholder='Write an id number ...' />
-              <label for='search'>
+              <label htmlFor='search'>
                   <img  className='search-svg' src={searchsvg}/>
               </label>
 
